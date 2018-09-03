@@ -1,0 +1,11 @@
+packages
+/Wxb2018/DLL/Devx.NET.pdb
+Debug
+/Wxb2018/Wxb2018/Web.Debug.config
+/Wxb2018/Wxb2018/Web.Release.config
+bin
+UploadFiles
+Release
+PublishProfiles
+/Wxb2018/Wxb2018/log/*
+.suo
